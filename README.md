@@ -60,4 +60,3 @@ python3 final_project.py
 This way the code will start running. The player can follow instructions in the terminal to play the game. 
 
 
-T
