@@ -51,12 +51,6 @@ Another suggestion I took was to adjust the amount of library time based on how 
 
 I also fixed the issue where players could repeatedly enter invalid actions without losing time. This way players couldn't repeatedly choose coffee. I also improved the win/loss checking system and made parts of my code easier to read. 
 
-## How to Run Game
 
-Make sure that final_project.py and draft_program.py are in the same folder. In order to start the game, open a terminal in this folder and run the code:
-
-python3 final_project.py
-
-This way the code will start running. The player can follow instructions in the terminal to play the game. 
 
 
